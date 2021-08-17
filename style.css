@@ -1,0 +1,33 @@
+body
+{
+  color: white;
+  background: #6993f3;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result ,#result_2  
+{
+  color: black;
+}
+.name
+{
+  font-size: 40px;
+}
+.emo
+{
+  font-size:48px;
+}
+.header
+{
+  font-size: 20px;
+  border-radius:10px;
+  letter-spacing: 10px;
+}
